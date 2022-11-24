@@ -1,0 +1,15 @@
+baseURL = "http://example.org/"
+languageCode = "zh-CN"
+title = "一网一匠"
+theme = "webstack-hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+copyright = ""
+[params]
+  author = "ywyj"
+  description = "一网一匠"
+[params.search]
+  enable = false
+[params.darkmode]
+  enable = false
